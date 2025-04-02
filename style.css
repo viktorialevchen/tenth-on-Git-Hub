@@ -1,0 +1,85 @@
+.col-12{
+ 
+    height: 3rem;
+}
+.col-lg-12{
+    height: 30rem;
+}
+.col-11{
+    height: 20rem;
+    margin: auto;
+}
+.col-xl-12{
+
+    height: 30rem;
+}
+.div{
+    display: flex;
+}
+.col-1{
+    margin-left: 5rem;
+    height: 2.9rem;
+  
+}
+.div2{
+    display: flex;
+}
+.col-3{
+    background-color:black;
+    height: 16rem;
+    border: 2px solid;
+}
+.col-7{
+    height: 25rem;
+    margin: auto;
+}
+.p{
+  margin-left: 40rem;
+}
+.p2{
+    margin-left: 28rem;
+}
+.img1{
+    height: 2rem;
+    width: 3rem;
+}
+.img3{
+    height: 13rem;
+    width:15rem;
+}
+.img4{
+    height: 13rem;
+    width:15rem;
+}
+.img5{
+    height: 13rem;
+    width:15rem;
+}
+.img6{
+    height: 13rem;
+    width:15.5rem;
+}
+.div3{
+    display: flex;
+}
+.col-lg-3{
+  
+    height: 22rem;
+  
+}
+.img8{
+    width: 13rem;
+    height: 15rem;
+}
+.img9{
+    width: 13rem;
+    height: 15rem;
+}
+.img10{
+    width: 13rem;
+    height: 15rem;
+}
+.img11{
+    width: 13rem;
+    height: 15rem;
+}
